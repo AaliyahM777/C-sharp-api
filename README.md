@@ -40,7 +40,7 @@ To stop running the server and the react app, you can hit ```command + z``` to c
 
 ## Author
 
-* [Aaliyah](https://github.com/AaliyahM777)
+* [Aaliyah Mccray](https://github.com/AaliyahM777)
 
 
 ## License
