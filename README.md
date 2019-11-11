@@ -1,10 +1,10 @@
-# KiwisParadise-Admin
+# PenPowers-Admin
 
-This is an admin website for Kiwi's Paradise. The items that are displayed in this website are taken from the same MYSQL database used in my eCommerce website, Kiwi's Paradise. Admins are able to use the CRUD methods on the products on the eCommerce website. Admins can add in a new item to put on the store, edit items, and delete items if necessary. This admin site was built with a react UI and a C# server. 
+This is an admin website for Pen Powers. The items that are displayed in this website are taken from the same MYSQL database used in my eCommerce website, Pen Powers. Admins are able to use the CRUD methods on the products on the eCommerce website. Admins can add in a new item to put on the store, edit items, and delete items if necessary. This admin site was built with a react UI and a C# server. 
 
 ## Getting Started
 
-Clone or download this repo onto your local machine. Once you have done this, install the node packages. You can do this by running ```npm i``` on your command line tool. You would then need to go inside of the directory where the client lies. To do this, you would need to run ```cd ClientApp``` on your command line tool. After doing this, you would then need to run ```npm i``` again to download the dependencies needed for the UI. You would also need to have the database named and structed similarly towards Kiwi's Paradise's database, in order to see the current products in the store.
+Clone or download this repo onto your local machine. Once you have done this, install the node packages. You can do this by running ```npm i``` on your command line tool. You would then need to go inside of the directory where the client lies. To do this, you would need to run ```cd ClientApp``` on your command line tool. After doing this, you would then need to run ```npm i``` again to download the dependencies needed for the UI. You would also need to have the database named and structed similarly towards Pen Powers's database, in order to see the current products in the store.
 
 
 ## Running the app

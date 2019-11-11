@@ -24,7 +24,7 @@ namespace project4
         [System.Obsolete]
         public void ConfigureServices(IServiceCollection services) //Set connection info for database
         {
-            string connection = "Server=localhost;Port=3306;Database=CSharp;User=root;Password=password";
+            string connection = "Server=localhost;Port=3306;Database=db_project4admin;User=root;Password=password";
 
             services.AddDbContextPool<ProductContext>(option => option.UseMySql(connection));
             services.AddControllers();

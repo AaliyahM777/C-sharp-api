@@ -8779,19 +8779,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/LucyYang/.nuget/packages/": {}
+    "/Users/aaliyahmccray/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/LucyYang/Documents/KiwisParadise-Admin/project4.csproj",
+      "projectUniqueName": "/Users/aaliyahmccray/Documents/Dotnet-Admin-Page/project4.csproj",
       "projectName": "project4",
-      "projectPath": "/Users/LucyYang/Documents/KiwisParadise-Admin/project4.csproj",
-      "packagesPath": "/Users/LucyYang/.nuget/packages/",
-      "outputPath": "/Users/LucyYang/Documents/KiwisParadise-Admin/obj/",
+      "projectPath": "/Users/aaliyahmccray/Documents/Dotnet-Admin-Page/project4.csproj",
+      "packagesPath": "/Users/aaliyahmccray/.nuget/packages/",
+      "outputPath": "/Users/aaliyahmccray/Documents/Dotnet-Admin-Page/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/LucyYang/.nuget/NuGet/NuGet.Config"
+        "/Users/aaliyahmccray/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"

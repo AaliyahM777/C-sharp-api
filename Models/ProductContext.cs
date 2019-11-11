@@ -7,7 +7,7 @@ namespace project4.Models
         public ProductContext(DbContextOptions<ProductContext> options) : base(options)
         {
         }
-        public DbSet<Product> Product { get; set; }
+        public DbSet<Products> Products { get; set; }
        
 
     }

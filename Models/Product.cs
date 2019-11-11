@@ -1,7 +1,7 @@
 ﻿using System;
 namespace project4.Models
 {
-    public class Product //Create model for how to save data in table of database
+    public class Products //Create model for how to save data in table of database
     {
             public int Id { get; set; }
             public string product_name { get; set; }
